@@ -1,4 +1,4 @@
-(function () {
+function () {
    var CharacterPos = 0;
    var MsgBuffer = "";
    var TypeDelay = 150; 
