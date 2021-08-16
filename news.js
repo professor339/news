@@ -1,4 +1,3 @@
-<script>
 (function () {
    var CharacterPos = 0;
    var MsgBuffer = "";
@@ -30,4 +29,3 @@
    }
 StartTyping();
 })();
-</script>
