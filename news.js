@@ -1,7 +1,7 @@
 (function () {
    var CharacterPos = 0;
    var MsgBuffer = "";
-   var TypeDelay = 150; 
+   var TypeDelay = 100; 
    var NxtMsgDelay = 100;
    var MsgIndex = 0;
    var delay;
