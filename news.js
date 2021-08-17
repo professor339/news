@@ -5,8 +5,7 @@
    var NxtMsgDelay = 100;
    var MsgIndex = 0;
    var delay;
-   var MsgArray = ["News Headlines\n\n1. RDIF and Wockhardt partner to produce Sputnik V and Sputnik Light vaccines\n\n2. Dishman Carbogen Amcis records 16.1 per cent growth YoY in consolidated net sales\n\n3.DoP takes measures to mandatorily revise ceiling prices of drugs every five years\n\n"];
-
+   var MsgArray = ["News Headlines\n\n1. Lupin receives tentative US FDA approval for Brivaracetam tablets\n\n2. FDA fast tracks breast cancer candidate samuraciclib Carrick Therapeutics’ oral CDK7 inhibitor may improve patient outcomes\n\n3. Pirfenidone could offer ‘viable’ heart failure treatment"]
    function StartTyping() {
       var id = document.getElementById("typing-text");
       if (CharacterPos != MsgArray[MsgIndex].length) {
